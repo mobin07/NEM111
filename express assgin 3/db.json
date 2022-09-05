@@ -1,0 +1,9 @@
+{
+  "course": [
+    { "id": 1, "course": "fw17", "rollno": "231", "student_name": "mobin" },
+    { "id": 2, "course": "fw19", "rollno": "31" },
+    { "id": 3, "course": "fw18", "rollno": "21" },
+    { "id": 4, "course": "fw27", "rollno": "1123" },
+    { "id": 5, "course": "fw117", "rollno": "2311" }
+  ]
+}

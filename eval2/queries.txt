@@ -1,0 +1,6 @@
+db.people.find({$or:[{"id": { "$mod" : [ 2, 0 ] }}, {"age": { "$mod" : [ 2, 0 ] }},{"family_members": { "$mod" : [ 2, 0 ] }}]})
+
+db.people.find({$and:[{"gender":"male"}, {"age": { "$mod" : [ 2, 1 ] }}]})
+
+
+

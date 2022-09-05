@@ -1,0 +1,14 @@
+GET /posts/1GET /postsGET /posts
+PUT /posts/1
+PUT /posts/3
+PUT /posts/3
+PUT /posts/3
+PUT /posts/3
+DELETE /posts/3
+DELETE /posts/3
+DELETE /posts/3
+PUT /posts/3
+POST /posts/4
+POST /posts/create
+POST /posts/create
+GET /posts/
